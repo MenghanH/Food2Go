@@ -1,5 +1,5 @@
+// Team work together
 <?php
-
 namespace App\Http\Controllers;
 use App\Slide;
 use App\Product;
