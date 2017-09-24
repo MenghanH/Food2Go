@@ -1,4 +1,4 @@
-// Yujun
+// Bao Nguyen
 @extends('master')
 @section('content')
 <div class="inner-header">
